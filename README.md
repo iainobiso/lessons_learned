@@ -4,3 +4,4 @@
 3. Using developer tools in chrome
 4. Using Atom
 5. Github
+# lessons_learned
